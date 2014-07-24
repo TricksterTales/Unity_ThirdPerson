@@ -6,11 +6,11 @@ Direct3D:
     Vendor:   ATI
     VRAM:     243 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\AJN\Documents\Unity\ThirdPerson\Builds\Build_20140723v1_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\AJN\Documents\Unity\ThirdPerson\Builds\Build_20140723v1_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\AJN\Documents\Unity\ThirdPerson\Builds\Build_20140723v1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\AJN\Documents\Unity\ThirdPerson\Builds\Build_20140723v1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-- Completed reload, in  0.158 seconds
+Platform assembly: C:\Users\AJN\Documents\GitHub\Unity_ThirdPerson\Builds\Build_20140723v1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\AJN\Documents\GitHub\Unity_ThirdPerson\Builds\Build_20140723v1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\AJN\Documents\GitHub\Unity_ThirdPerson\Builds\Build_20140723v1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\AJN\Documents\GitHub\Unity_ThirdPerson\Builds\Build_20140723v1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.163 seconds
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
